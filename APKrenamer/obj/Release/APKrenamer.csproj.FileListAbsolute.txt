@@ -1,0 +1,8 @@
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\bin\Release\APKrenamer.exe
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\bin\Release\APKrenamer.pdb
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\bin\Release\Csharp.Apk-Reader.dll
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\obj\Release\APKrenamer.mainWindow.resources
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\obj\Release\APKrenamer.Properties.Resources.resources
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\obj\Release\APKrenamer.csproj.GenerateResource.Cache
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\obj\Release\APKrenamer.exe
+C:\Users\adrian\Documents\Visual Studio 2015\Projects\APKrenamer\APKrenamer\obj\Release\APKrenamer.pdb
